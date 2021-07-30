@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E_Signature</string>
+    <string name="signature_text">Please sign on the screen with your finger while respecting the card.</string>
+    <string name="save_text">Save</string>
+    <string name="clear_text">Clear</string>
+    <string name="next_text">Next</string>
+</resources>
