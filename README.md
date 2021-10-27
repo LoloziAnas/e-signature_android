@@ -6,9 +6,7 @@ You may have seen many eCommerce companies like Amazon provides a facility for d
 
 ## Screenshots
 
-<img src="screenshots/Screenshot_20210730-222449_E_Signature.jpg" alt="alt text" width="200" height="400">
-<img src="screenshots/Screenshot_20210730-222506_E_Signature.jpg" alt="alt text" width="200" height="400">
-<img src="screenshots/Screenshot_20210730-222515_E_Signature.jpg" alt="alt text" width="200" height="400">
+<img src="screenshots/Screenshot_20210730-222449_E_Signature.jpg" alt="alt text" width="200" height="400"><img src="screenshots/Screenshot_20210730-222506_E_Signature.jpg" alt="alt text" width="200" height="400"><img src="screenshots/Screenshot_20210730-222515_E_Signature.jpg" alt="alt text" width="200" height="400">
 
 
 
